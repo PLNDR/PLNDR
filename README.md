@@ -1,8 +1,8 @@
-# 👨‍💻 Pál Nándor | CTO & Strategic Technology Consultant
+# 👨‍💻 Pál Nándor | DevOps Specialist & Strategic Technology Consultant
 
 Bridging the gap between complex engineering and human-centered business solutions.
 
-As a CTO and Founder, I specialize in architecting resilient systems and leading technical transformations for startups and social enterprises. My approach combines deep-tier Cloud Infrastructure expertise with a strategic vision for DevOps culture, ensuring that technology serves as a primary driver for business growth rather than a bottleneck.
+As a DevOps Specialist and Founder, I specialize in architecting resilient systems and leading technical transformations for startups and social enterprises. My approach combines deep-tier Cloud Infrastructure expertise with a strategic vision for DevOps culture, ensuring that technology serves as a primary driver for business growth rather than a bottleneck.
 
 ---
 
